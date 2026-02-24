@@ -1,0 +1,13 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "projects": {
+    "agri-decision-web": {
+      "projectType": "application",
+      "root": "",
+      "sourceRoot": "src",
+      "architect": {}
+    }
+  },
+  "defaultProject": "agri-decision-web"
+}

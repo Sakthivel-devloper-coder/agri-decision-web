@@ -1,0 +1,18 @@
+@use 'sass:color';
+
+:root {
+  --primary: #2e7d32; // green
+  --accent: #f4a261;
+  --bg: #f5f7fa;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Roboto, Arial, sans-serif;
+  background: var(--bg);
+  color: #1f2937;
+}
+
+.app-shell {
+  padding: 16px;
+}
